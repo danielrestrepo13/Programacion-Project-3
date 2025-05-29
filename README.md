@@ -1,8 +1,11 @@
 # 📊 Proyecto 3: Análitica de Datos con Python
 
 ### Universidad Autónoma de Occidente  
+
 **Asignatura:** Programación 
+
 **Programa:** Ingeniería de Datos e Inteligencia Artificial  
+
 **Periodo:** 2025-1  
 
 
