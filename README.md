@@ -7,12 +7,12 @@
 **Programa:** Ingeniería de Datos e Inteligencia Artificial  
 
 
-## ✨ Tema: Turismo y Viajes en Colombia
+## Tema: Turismo y Viajes en Colombia
 
 Este proyecto analiza variables relacionadas con el turismo en Colombia desde 1999 hasta 2023. Se busca entender cómo han evolucionado indicadores como el número de llegadas y salidas de turistas, los ingresos por turismo, el gasto de turistas, la relación con el PIB, y cómo variables como el desempleo o la inflación se han comportado frente a estos factores.
 
 
-## 📌 Objetivos
+## Objetivos
 
 - Aplicar herramientas de **analítica de datos** con Python.
 - Realizar un análisis exploratorio de un conjunto de datos real.
@@ -21,7 +21,7 @@ Este proyecto analiza variables relacionadas con el turismo en Colombia desde 19
 - Usar `groupby()` y otras funciones de pandas para responder preguntas agregadas.
 
 
-## 🧰 Herramientas usadas
+## Herramientas usadas
 
 - `Python`
 - `Pandas`
