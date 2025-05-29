@@ -6,8 +6,6 @@
 
 **Programa:** Ingeniería de Datos e Inteligencia Artificial  
 
-**Periodo:** 2025-1  
-
 
 ## ✨ Tema: Turismo y Viajes en Colombia
 
