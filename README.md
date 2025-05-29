@@ -30,7 +30,8 @@ Este proyecto analiza variables relacionadas con el turismo en Colombia desde 19
 - `NumPy`
 - `Jupyter Notebook`
 
-## 📝 Licencia
+
+## Licencia
 
 Uso académico. Proyecto desarrollado para la asignatura de Programación (2025-1).
 
